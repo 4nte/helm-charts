@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mqtt-mirror:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-19T09:57:33.194519886Z"
+    description: Mqtt mirror helm chart
+    digest: 973abad4a4f1cfc591c16a03ef7dd3a2e244b5ba4301d69c12363f93f87a60f6
+    name: mqtt-mirror
+    urls:
+    - https://rvgud.github.io/kube-curator/mqtt-mirror-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-19T09:57:33.193898369Z"
