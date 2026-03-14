@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   mqtt-mirror:
   - apiVersion: v2
+    appVersion: 0.3.2
+    created: "2026-03-14T19:44:40.382704455Z"
+    description: Mqtt mirror helm chart
+    digest: 65f20a04afc727f47d937f945d62521650307beaf93d3dd5903e000ce125ff2d
+    name: mqtt-mirror
+    type: application
+    urls:
+    - https://4nte.github.io/helm-charts/mqtt-mirror-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
     appVersion: 0.3.1
-    created: "2026-03-14T19:21:15.379831293Z"
+    created: "2026-03-14T19:44:40.382381452Z"
     description: Mqtt mirror helm chart
     digest: 9371f844b359bea0d7ef37505e39986f89a2be9b6766f4b460ad9de41958727d
     name: mqtt-mirror
@@ -13,7 +23,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2026-03-14T19:21:15.379481665Z"
+    created: "2026-03-14T19:44:40.381986594Z"
     description: Mqtt mirror helm chart
     digest: 7f68452935f726490724ad2a49e7d901e3a0cbe94ac8cd6ba08f363ed91aa2c3
     name: mqtt-mirror
@@ -23,7 +33,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.2.0
-    created: "2026-03-14T19:21:15.379113874Z"
+    created: "2026-03-14T19:44:40.381636039Z"
     description: Mqtt mirror helm chart
     digest: 11d7c7b087c33004831d4d4f834fe87a64ee4a03103426178eb668967a5e13b6
     name: mqtt-mirror
@@ -32,7 +42,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.2.0-rc.13
-    created: "2026-03-14T19:21:15.378852803Z"
+    created: "2026-03-14T19:44:40.38143312Z"
     description: Mqtt mirror helm chart
     digest: cb7d26399588ba5ef2292fe7775bba89cb2137d66e208b4657276620685a5987
     name: mqtt-mirror
@@ -41,7 +51,7 @@ entries:
     version: 0.2.0-rc.13
   - apiVersion: v1
     appVersion: 0.2.0-rc.12
-    created: "2026-03-14T19:21:15.378563338Z"
+    created: "2026-03-14T19:44:40.381219471Z"
     description: Mqtt mirror helm chart
     digest: c075b9eb30710481aff8cdf097b4ed53ee16d638f22e4392a2cc4800e9274b1d
     name: mqtt-mirror
@@ -50,7 +60,7 @@ entries:
     version: 0.2.0-rc.12
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2026-03-14T19:21:15.378309621Z"
+    created: "2026-03-14T19:44:40.380961259Z"
     description: Mqtt mirror helm chart
     digest: 2940a7c1ea0e3a322d0201a375c166f30cd120d40a7f1d529a045bff5417e065
     name: mqtt-mirror
@@ -59,7 +69,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2026-03-14T19:21:15.378029925Z"
+    created: "2026-03-14T19:44:40.380475414Z"
     description: Mqtt mirror helm chart
     digest: e6b56df6ad1239f5c9643a367c36685d8d9192f9bc9a22830bdc60becddd2b76
     name: mqtt-mirror
@@ -68,11 +78,11 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2026-03-14T19:21:15.377180617Z"
+    created: "2026-03-14T19:44:40.379989647Z"
     description: Mqtt mirror helm chart
     digest: e728f27826f9553b3d93aca85789cc897541b63d4a6874a2e2a56e2683c86fc5
     name: mqtt-mirror
     urls:
     - https://4nte.github.io/helm-charts/mqtt-mirror-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-14T19:21:15.37614027Z"
+generated: "2026-03-14T19:44:40.379413871Z"
